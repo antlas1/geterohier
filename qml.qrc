@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/pages/AndroidDelegate.qml</file>
+        <file>qml/images/button_default.png</file>
+        <file>qml/images/button_pressed.png</file>
+        <file>qml/images/navigation_next_item.png</file>
+        <file>qml/images/navigation_previous_item.png</file>
+        <file>qml/images/tab_selected.png</file>
+        <file>qml/images/tabs_standard.png</file>
+        <file>qml/images/textinput.png</file>
+        <file>qml/images/toolbar.png</file>
+        <file>qml/pages/GroupPage.qml</file>
+        <file>qml/pages/SettingsPage.qml</file>
+    </qresource>
+</RCC>
